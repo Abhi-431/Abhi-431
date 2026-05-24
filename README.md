@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack & DevOps**
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **abhishekbukoliya2204@gmail.com**
 - ⚡ Fun fact: **I love solving DSA problems**
 
 ---
